@@ -1,0 +1,13 @@
+export { default as NavBar } from "./NavBar/NavBar";
+export { default as Footer } from "./Footer/Footer";
+export { default as HomePage } from "./HomePage/HomePage";
+export { default as Products } from "./Fashion/Products/Products";
+export { default as Product } from "./Fashion/Products/Product/Product";
+export { default as AboutUs } from "./About Us/AboutUs";
+export { default as Contact } from "./Contact/Contact";
+export { default as Cart } from "./Cart/Cart";
+export { default as CartItem } from "./Cart/CartItem/CartItem";
+export { default as SignUp } from "./SignUp/SignUp";
+export { default as LogIn } from "./SignUp/LogIn/LogIn";
+export { default as Checkout } from "./Cart/Checkout/Checkout";
+export { default as SearchBar } from "./SearchBar/SearchBar";
